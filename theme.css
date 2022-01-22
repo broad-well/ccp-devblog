@@ -1,0 +1,23 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #334350;
+    padding: 2rem;
+    color: white;
+}
+header h1 {
+    margin: 0 0;
+}
+header h3 {
+    margin: 0 0;
+    color: #ddd;
+}
+
+main {
+    padding: 2.5rem;
+    color: #111111;
+}
